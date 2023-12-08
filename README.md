@@ -48,12 +48,8 @@
 
 **💬 我的社交**  
 
-[GitHub](https://github.com/shunyue1320)、[Twitter](https://twitter.com/shunyue1320)、[huggingface](https://huggingface.co/)、[掘金](https://juejin.cn/user/3702810894152983)、[CSDN](https://blog.csdn.net/qq_41614928?type=blog)
+[bilibili](https://space.bilibili.com/475498258?spm_id_from=333.1007.0.0)、[GitHub](https://github.com/shunyue1320)、[Twitter](https://twitter.com/shunyue1320)、[huggingface](https://huggingface.co/)、[掘金](https://juejin.cn/user/3702810894152983)、[CSDN](https://blog.csdn.net/qq_41614928?type=blog)
 
 | GitHub stats | Top Langs |
 | :---:|:---:|
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shunyue1320)](https://github.com/shunyue1320#js-contribution-activity) | [![Top Langs](https://zen-code-stats.vercel.app/api/top-langs/?username=shunyue1320&show_icons=true&hide=css,html&langs_count=20&layout=compact&card_width=445)](https://github.com/shunyue1320) |
-
-
-
-
