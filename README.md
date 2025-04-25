@@ -1,4 +1,9 @@
-### Hi there 👋 遇到问题可以向我发邮件哦！ 📧：tsunyue1320@gmail.com
+## 💬我的社交
+
+[小红书](https://www.xiaohongshu.com/user/profile/64f455d700000000060324dc)、[bilibili](https://space.bilibili.com/475498258?spm_id_from=333.1007.0.0)、[抖音](https://www.douyin.com/user/MS4wLjABAAAAHDtVFdxE77vCUi-WHN6UwYwWMzxT2XEnOTkHup50CnY?vid=7304252910018301234)、[GitHub](https://github.com/shunyue1320)、[Twitter](https://twitter.com/shunyue1320)、[huggingface](https://huggingface.co/)、[掘金](https://juejin.cn/user/3702810894152983)、[CSDN](https://blog.csdn.net/qq_41614928?type=blog)
+
+### 答疑解惑｜软件开发｜商务合作  🛰️：shunyue1321
+
 
 ## 💻日常开发
 
@@ -45,10 +50,6 @@
 
 
 
-
-**💬 我的社交**  
-
-[bilibili](https://space.bilibili.com/475498258?spm_id_from=333.1007.0.0)、[抖音](https://www.douyin.com/user/MS4wLjABAAAAHDtVFdxE77vCUi-WHN6UwYwWMzxT2XEnOTkHup50CnY?vid=7304252910018301234)、[GitHub](https://github.com/shunyue1320)、[Twitter](https://twitter.com/shunyue1320)、[huggingface](https://huggingface.co/)、[掘金](https://juejin.cn/user/3702810894152983)、[CSDN](https://blog.csdn.net/qq_41614928?type=blog)
 
 | GitHub stats | Top Langs |
 | :---:|:---:|
